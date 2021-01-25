@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T06:10:13.419Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" version="14.0.4" etag="nYFq9aP8HQeoj6W7jAcD" type="github"><diagram id="pmgtW3qV8UNMac_Pl7LK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-25T07:00:42.840Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="7ZxEJ6mHbnQTCtlBK0tl" version="14.0.4" type="github">
+  <diagram id="pmgtW3qV8UNMac_Pl7LK" name="Page-1">
+    <mxGraphModel dx="1373" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-7" value="&amp;nbsp;Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="70" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-8" value="在庫あり？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-9" value="価格&amp;lt;＝投入金額" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-10" value="投入金額を表示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-11" value="おつり計算" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-12" value="OK?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-13" value="内部金額からおつり分を引く" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-14" value="おつり払いだし" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-15" value="商品払いだし" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r8BMAwTGS86rJoEbrQ-C-16" value="終了" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
